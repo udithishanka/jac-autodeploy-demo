@@ -1,6 +1,6 @@
 # Empty
 
-A blank canvas — the minimal jac-shadcn starter the other templates are built on.
+A blank canvas, auto-deployed — the minimal jac-shadcn starter the other templates are built on.
 
 One client page, the violet theme wired up, and nothing else in the way. Start
 here when none of the other templates fit, and describe what you want to build.
