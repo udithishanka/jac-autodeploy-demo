@@ -37,3 +37,4 @@ Open <http://localhost:8000>.
 `AGENTS.md` lists the reference guides bundled with the compiler; read them
 before writing Jac — the syntax is easy to confuse with Python or JSX.
 auto-deploy e2e 2026-09-02T10:06:46Z
+e2e run 2026-09-02T10:37:21Z
