@@ -38,3 +38,5 @@ Open <http://localhost:8000>.
 before writing Jac — the syntax is easy to confuse with Python or JSX.
 auto-deploy e2e 2026-09-02T10:06:46Z
 e2e run 2026-09-02T10:37:21Z
+
+Auto-deploy verified end to end on 2026-09-02 (drain fixed: allroots + request context).
