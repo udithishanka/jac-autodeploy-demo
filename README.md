@@ -42,3 +42,5 @@ e2e run 2026-09-02T10:37:21Z
 Auto-deploy verified end to end on 2026-09-02 (drain fixed: allroots + request context).
 
 Second run: verifying owner-root launch and the settle pass (13:48:05Z).
+
+Run 3: clean end-to-end check after the stale-result fix (13:57:33Z).
