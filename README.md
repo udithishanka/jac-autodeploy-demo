@@ -44,3 +44,5 @@ Auto-deploy verified end to end on 2026-09-02 (drain fixed: allroots + request c
 Second run: verifying owner-root launch and the settle pass (13:48:05Z).
 
 Run 3: clean end-to-end check after the stale-result fix (13:57:33Z).
+
+Run 4: first deploy driven by the jaseci-labs org App (10:31:04Z).
