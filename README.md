@@ -48,3 +48,5 @@ Run 3: clean end-to-end check after the stale-result fix (13:57:33Z).
 Run 4: first deploy driven by the jaseci-labs org App (10:31:04Z).
 
 Run 5: first deploy driven by the jaseci-labs org App (11:44:05Z).
+
+Run 6: end-to-end on the dev deployment via the jaseci-labs org App (15:20:04Z).
